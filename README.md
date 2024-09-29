@@ -1,7 +1,7 @@
 <h1>AI Tic-Tac-Toe Bot</h1>
 
 <p>
-    This repository contains an AI-powered <strong>Tic-Tac-Toe</strong> bot developed using Python and <strong>PyGame</strong>. 
+    I developed an AI-powered <strong>Tic-Tac-Toe</strong> bot developed using Python and <strong>PyGame</strong>. 
     The AI implements the Minimax algorithm to play optimally, ensuring that it never loses when playing against a human player. 
     The graphical user interface is powered by PyGame, making it a fun and interactive experience to play against the AI.
 </p>
