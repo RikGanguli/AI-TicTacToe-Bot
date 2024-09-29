@@ -55,8 +55,8 @@
 
 <ul>
     <li>Python 3.x</li>
-    <li>PyGame library: You can install it using:
-        <pre><code>pip install pygame</code></pre>
+    <li>All required dependencies are listed in <strong>requirements.txt</strong>. You can install them using:
+        <pre><code>pip install -r requirements.txt</code></pre>
     </li>
 </ul>
 
